@@ -1,0 +1,5 @@
+strategy,n,win_rate_pct,se_pp,ci_low,ci_high,avg_gross_pct,avg_cost_pct,avg_net_pct,total_net_pct
+A_rsi_oversold,247,38.9,3.1,32.8,44.9,0.277,1.057,-0.779,-192.5
+B_ma_cross,1486,31.4,1.2,29.0,33.7,0.121,0.952,-0.83,-1234.1
+C_breakout,3341,37.9,0.84,36.2,39.5,0.393,0.97,-0.577,-1926.2
+D_random,1685,37.9,1.18,35.5,40.2,0.397,0.997,-0.6,-1011.1

@@ -1,0 +1,52 @@
+ticker,expected,actual,rows,start,end,status
+^KLSE,FTSE Bursa Malaysia KLCI,FTSE Bursa Malaysia KLCI,2856,2015-01-02,2026-09-03,OK
+1155.KL,Malayan Banking,Malayan Banking Berhad,2876,2015-01-02,2026-09-03,OK
+1295.KL,Public Bank,Public Bank Berhad,2877,2015-01-02,2026-09-03,OK
+1023.KL,CIMB Group,CIMB Group Holdings Berhad,2877,2015-01-02,2026-09-03,OK
+1066.KL,RHB Bank,RHB Bank Berhad,2877,2015-01-02,2026-09-03,OK
+5819.KL,Hong Leong Bank,Hong Leong Bank Berhad,2877,2015-01-02,2026-09-03,OK
+1082.KL,Hong Leong Financial,Hong Leong Financial Group Berhad,2876,2015-01-02,2026-09-03,OK
+5347.KL,Tenaga Nasional,Tenaga Nasional Berhad,2876,2015-01-02,2026-09-03,OK
+6742.KL,YTL Power,YTL Power International Berhad,2876,2015-01-02,2026-09-03,OK
+4677.KL,YTL Corporation,YTL Corporation Berhad,2875,2015-01-02,2026-09-03,OK
+6947.KL,CelcomDigi,Celcomdigi Berhad,2875,2015-01-02,2026-09-03,OK
+6012.KL,Maxis,Maxis Berhad,2875,2015-01-02,2026-09-03,OK
+4863.KL,Telekom Malaysia,Telekom Malaysia Berhad,2876,2015-01-02,2026-09-03,OK
+6888.KL,Axiata,Axiata Group Berhad,2875,2015-01-02,2026-09-03,OK
+5225.KL,IHH Healthcare,IHH Healthcare Berhad,2875,2015-01-02,2026-09-03,OK
+1961.KL,IOI Corporation,IOI Corporation Berhad,2876,2015-01-02,2026-09-03,OK
+2445.KL,Kuala Lumpur Kepong,Kuala Lumpur Kepong Berhad,2876,2015-01-02,2026-09-03,OK
+5285.KL,SD Guthrie,SD Guthrie Berhad,2149,2017-11-30,2026-09-03,OK
+4065.KL,PPB Group,PPB Group Berhad,2877,2015-01-02,2026-09-03,OK
+4197.KL,Sime Darby,Sime Darby Berhad,2876,2015-01-02,2026-09-03,OK
+5183.KL,Petronas Chemicals,PETRONAS Chemicals Group Berhad,2875,2015-01-02,2026-09-03,OK
+5681.KL,Petronas Dagangan,PETRONAS Dagangan Berhad,2877,2015-01-02,2026-09-03,OK
+6033.KL,Petronas Gas,PETRONAS Gas Berhad,2876,2015-01-02,2026-09-03,OK
+3816.KL,MISC,MISC Berhad,2877,2015-01-02,2026-09-03,OK
+8869.KL,Press Metal,Press Metal Aluminium Holdings Berhad,2876,2015-01-02,2026-09-03,OK
+4707.KL,Nestle Malaysia,Nestlé (Malaysia) Berhad,2876,2015-01-02,2026-09-03,NAME_MISMATCH
+7084.KL,QL Resources,QL Resources Berhad,2876,2015-01-02,2026-09-03,OK
+5296.KL,Mr DIY,Mr D.I.Y. Group (M) Berhad,1437,2020-10-26,2026-09-03,OK
+5326.KL,99 Speed Mart,99 Speed Mart Retail Holdings Berhad,490,2024-09-09,2026-09-03,OK_SHORT_HISTORY
+5398.KL,Gamuda,Gamuda Berhad,2877,2015-01-02,2026-09-03,OK
+5211.KL,Sunway,Sunway Berhad,2874,2015-01-02,2026-09-03,OK
+3182.KL,Genting,Genting Berhad,2877,2015-01-02,2026-09-03,OK
+4715.KL,Genting Malaysia,Genting Malaysia Berhad,2876,2015-01-02,2026-09-03,OK
+1015.KL,AMMB,AMMB Holdings Berhad,2877,2015-01-02,2026-09-03,OK
+2488.KL,Alliance Bank,Alliance Bank Malaysia Berhad,2876,2015-01-02,2026-09-03,OK
+5258.KL,Bank Islam,Bank Islam Malaysia Berhad,2876,2015-01-02,2026-09-03,OK
+5168.KL,Hartalega,Hartalega Holdings Berhad,2875,2015-01-02,2026-09-03,OK
+7277.KL,Dialog Group,Dialog Group Berhad,2876,2015-01-02,2026-09-03,OK
+7293.KL,Yinson,Yinson Holdings Berhad,2876,2015-01-02,2026-09-03,OK
+5246.KL,Westports,Westports Holdings Berhad,2875,2015-01-02,2026-09-03,OK
+5014.KL,Malaysia Airports,,0,,,NO_DATA
+3336.KL,IJM,IJM Corporation Berhad,2876,2015-01-02,2026-09-03,OK
+0138.KL,MY EG Services,Zetrix AI Berhad,2877,2015-01-02,2026-09-03,NAME_MISMATCH
+0166.KL,Inari Amertron,Inari Amertron Berhad,2875,2015-01-02,2026-09-03,OK
+0128.KL,Frontken,Frontken Corporation Berhad,2877,2015-01-02,2026-09-03,OK
+0208.KL,Greatech,Greatech Technology Berhad,1774,2019-06-13,2026-09-03,OK
+7160.KL,Pentamaster,Pentamaster Corporation Berhad,2876,2015-01-02,2026-09-03,OK
+0097.KL,ViTrox,ViTrox Corporation Berhad,2877,2015-01-02,2026-09-03,OK
+5031.KL,Time dotCom,TIME dotCom Berhad,2876,2015-01-02,2026-09-03,OK
+5099.KL,Capital A,Capital A Berhad,2877,2015-01-02,2026-09-03,OK
+5176.KL,Sunway REIT,Sunway Real Estate Investment Trust,2875,2015-01-02,2026-09-03,OK

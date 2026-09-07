@@ -1,0 +1,5 @@
+strategy,n,direction_rate,dir_ci,net_win_rate,gross_mean,gross_median,cost_mean,net_mean,net_median,vs_random
+A_rsi_oversold,247,49.4,43.2-55.6,40.9,0.277,0.0,0.967,-0.69,-0.524,sama (p=0.73)
+B_ma_cross,1486,43.7,41.2-46.2,33.0,0.121,0.0,0.879,-0.758,-0.814,LEBIH TERUK (p=0.000)
+C_breakout,3341,48.6,46.9-50.3,38.6,0.393,0.0,0.902,-0.509,-0.644,sama (p=0.18)
+D_random,1685,50.6,48.2-53.0,39.2,0.397,0.108,0.926,-0.529,-0.515,—

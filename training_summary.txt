@@ -1,0 +1,14 @@
+STOCK TRADING MODEL TRAINING SUMMARY
+============================================================
+
+Date: 2026-09-05 15:57:00
+Dataset: /mnt/e/StockistAgent/data/raw/1155.KL.csv
+Total Samples: 2798
+Features: 18
+
+XGBoost Accuracy: 79.29%
+LSTM Accuracy: 78.30%
+Best Model: XGBoost
+
+Latest Signal (LSTM): HOLD
+Current Price: RM 10.60
