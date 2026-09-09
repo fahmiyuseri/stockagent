@@ -84,6 +84,7 @@ KLCI30 = {
     "5326.KL": "99 Speed Mart",
     "5398.KL": "Gamuda",
     "5211.KL": "Sunway",
+
 }
 
 STOCK_CONFIG = {
@@ -128,6 +129,7 @@ STOCK_CONFIG = {
     "0127.KL": {"name": "Tropicana", "csv_path": "/mnt/e/StockistAgent/data/raw/0127.KL.csv", "description": "Property"},
     "6599.KL": {"name": "Sapura Energy", "csv_path": "/mnt/e/StockistAgent/data/raw/6599.KL.csv", "description": "Oil & Gas"},
     "0098.KL": {"name": "AMMB", "csv_path": "/mnt/e/StockistAgent/data/raw/0098.KL.csv", "description": "Banking"},
+    "9075.KL": {"name": "Theta Edge Berhad", "csv_path": "/mnt/e/StockistAgent/data/raw/9075.KL.csv", "description": "Tech"},
 }
 
 # ============================================================================
